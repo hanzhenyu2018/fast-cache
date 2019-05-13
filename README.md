@@ -9,6 +9,8 @@
 ## 安装下载
 
 - 下载地址 https://github.com/hanzhenyu2018/fast-cache/releases
+- 'npm i fast-cache-hzyy'
+- CDN http://unpkg.com/fast-cache-hzyy/release/bundle.js
 
 ## 快速使用
 
